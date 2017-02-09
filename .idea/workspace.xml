@@ -5,9 +5,13 @@
     <list default="true" id="5ca1acb5-411e-4129-befd-8f19de674ea5" name="Default" comment="" />
 =======
     <list default="true" id="5ca1acb5-411e-4129-befd-8f19de674ea5" name="Default" comment="">
+<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esquema_bd.pdf" afterPath="$PROJECT_DIR$/esquema_bd.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vista/Login/LoginViews.php" afterPath="$PROJECT_DIR$/Vista/Login/LoginViews.php" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> Stashed changes
     </list>
 >>>>>>> Stashed changes
     <ignored path="public.iws" />
@@ -474,6 +478,21 @@
         </subPane>
       </pane>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       <pane id="Scratches" />
 =======
 >>>>>>> Stashed changes
@@ -532,13 +551,21 @@
       <created>1484386949705</created>
       <option name="number" value="Default" />
       <updated>1484386949705</updated>
+<<<<<<< Updated upstream
       <workItem from="1486625633674" duration="15000" />
       <workItem from="1486627474666" duration="51000" />
+=======
+      <workItem from="1486625633674" duration="779000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="66000" />
+=======
+    <option name="totallyTimeSpent" value="779000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
