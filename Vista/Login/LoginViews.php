@@ -20,7 +20,7 @@ class LoginViews extends Views
         ?>
                 <form name="loginForm" class="form-horizontal login" method="post">
                     <fieldset>
-                        <legend>Login3</legend>
+                        <legend>Login5</legend>
                     <div class="form-group">
                         <label class="control-label col-sm-2 col-sm-offset-2 col-md-2 col-md-offset-2">DNI:</label>
                         <div class="col-sm-4 col-md-4">
